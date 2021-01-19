@@ -10,3 +10,4 @@ AsyncTask is designed to be a helper class around Thread and Handler and does no
 An asynchronous task is defined by a computation that runs on a background thread and whose result is published on the UI thread. An asynchronous task is defined by 3 generic types, called Params, Progress and Result, and 4 steps, called onPreExecute, doInBackground, onProgressUpdate and onPostExecute.
 
 
+![Screenshot_1611061489](https://user-images.githubusercontent.com/76481422/105048742-8e988b00-5a74-11eb-9354-844498616321.png) ![Screenshot_1611061492](https://user-images.githubusercontent.com/76481422/105048753-90624e80-5a74-11eb-9623-c5feea32c5a6.png)
